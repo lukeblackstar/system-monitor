@@ -18,7 +18,7 @@ Este script em PowerShell monitora o uso de CPU, memória, disco e rede em tempo
 3. Navegue até a pasta onde está o script.
 4. Execute o comando:
    ```powershell
-   .\MonitorSistema.ps1
+   .\systemmonitor.ps1
    ```
 
 Você pode configurar os valores dos limites diretamente no script:
